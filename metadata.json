@@ -1,0 +1,10 @@
+{
+  "uuid": "snip@kuduxaaa",
+  "name": "Snip",
+  "description": "Windows-style area screenshot straight to the clipboard. Press Super+Shift+S, drag, paste. No windows, no flash, no sound.",
+  "shell-version": ["46"],
+  "url": "https://github.com/kuduxaaa/gnome-snip",
+  "settings-schema": "org.gnome.shell.extensions.snip",
+  "gettext-domain": "snip",
+  "version": 1
+}

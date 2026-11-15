@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.snip" path="/org/gnome/shell/extensions/snip/">
+    <key name="shortcut" type="as">
+      <default><![CDATA[['<Shift><Super>s']]]></default>
+      <summary>Keyboard shortcut that starts a snip</summary>
+    </key>
+    <key name="dim" type="d">
+      <range min="0" max="0.9"/>
+      <default>0.42</default>
+      <summary>Darkness of the dim layer while selecting</summary>
+    </key>
+    <key name="notify" type="b">
+      <default>true</default>
+      <summary>Show a notification with a thumbnail after copying</summary>
+    </key>
+  </schema>
+</schemalist>

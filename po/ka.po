@@ -1,0 +1,18 @@
+# Georgian translation for Snip.
+msgid ""
+msgstr ""
+"Project-Id-Version: snip\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Screenshot copied"
+msgstr "სქრინშოტი დაკოპირდა"
+
+msgid "Paste it with Ctrl+V. Click to save and open."
+msgstr "ჩასვი Ctrl+V-ით. დააჭირე, რომ შეინახო და გახსნა."
+
+msgid "Save"
+msgstr "შენახვა"
